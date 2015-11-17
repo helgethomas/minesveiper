@@ -1,0 +1,15 @@
+{
+  "name": "minesveiper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "devDependencies": {
+    "chai": "^3.4.1",
+    "mochify": "~2.14.0"
+  },
+  "scripts": {
+    "test": "mochify -R progress test/*.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
